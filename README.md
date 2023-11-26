@@ -1,5 +1,5 @@
 # MyGrade Endpoint
 
-This repository serves as a dedicated backup and concurrent space for managing essential public data for MyGrade that play a crucial role in our authentication system.
+This repository functions as an archival and backup system for MyGrade's public data.
 
-No user data is stored here.
+No user or sensitive data is stored here.
